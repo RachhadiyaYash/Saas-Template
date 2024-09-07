@@ -7,7 +7,7 @@ import Testimonial from "./components/Testimonial";
 import Letstalk from "./components/Letstalk";
 import Productimg from "./components/Productimg";
 import Footer from "./components/Footer";
-import Copyright from "./components/copyright";
+import Copyright from "./components/Copyright";
 
 function App() {
   return (
