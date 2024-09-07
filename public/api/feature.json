@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Customizable card",
+    "description": "Customize your own card for your exact income and expense needs.",
+    "imgSrc": "/features/Cards icon.svg",
+    "imgAlt": "card image"
+  },
+  {
+    "id": 2,
+    "title": "No payment fee",
+    "description": "Transfer your payment all over the world with no payment fee.",
+    "imgSrc": "/features/Coin icon.svg",
+    "imgAlt": "coin image"
+  },
+  {
+    "id": 3,
+    "title": "All in one place",
+    "description": "The right place to keep your credit and debit cards, boarding passes & more.",
+    "imgSrc": "/features/Purse icon.svg",
+    "imgAlt": "purse image"
+  }
+]

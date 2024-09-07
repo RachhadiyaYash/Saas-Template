@@ -2,6 +2,12 @@ import "./App.css";
 import Navbar from "./components/Navbar";
 import Herosection from "./components/Herosection";
 import Logobar from "./components/Logobar";
+import Feature from "./components/Feature";
+import Testimonial from "./components/Testimonial";
+import Letstalk from "./components/Letstalk";
+import Productimg from "./components/Productimg";
+import Footer from "./components/footer";
+import Copyright from "./components/copyright";
 
 function App() {
   return (
@@ -9,6 +15,12 @@ function App() {
       <Navbar />
       <Herosection />
       <Logobar />
+      <Productimg />
+      <Feature />
+      <Testimonial />
+      <Letstalk />
+      <Footer />
+      <Copyright />
     </>
   );
 }
